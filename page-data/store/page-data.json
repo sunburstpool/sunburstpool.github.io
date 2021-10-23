@@ -2,4 +2,4 @@
     "componentChunkName": "component---src-pages-store-js",
     "path": "/store/",
     "result": {"data":{"allMarkdownRemark":{"nodes":[{"id":"a07da02d-ba09-555c-95f8-eb24b18241dc","frontmatter":{"title":"We're Open","subtitle":"Come On In","hours":[{"day":"Sunday","time":"11:00 AM to 4:00 PM"},{"day":"Monday","time":"10:00 AM to 7:00 PM"},{"day":"Tuesday","time":"10:00 AM to 7:00 PM"},{"day":"Wednesday","time":"10:00 AM to 7:00 PM"},{"day":"Thursday","time":"10:00 AM to 7:00 PM"},{"day":"Friday","time":"10:00 AM to 7:00 PM"},{"day":"Saturday","time":"10:00 AM to 7:00 PM"}],"address":{"city":"Etna","state":"Ohio","street":"12981 National Rd. SW.","zip":"43062"},"phone":{"number":"(740) 927-9686","title":"Call Anytime"}}}]}},"pageContext":{}},
-    "staticQueryHashes": ["256249292","3860684146"]}
+    "staticQueryHashes": ["1812171422","256249292"]}

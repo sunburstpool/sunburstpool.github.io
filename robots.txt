@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sunburstpool.github.io/sitemap/sitemap-index.xml
+Host: https://sunburstpool.github.io
